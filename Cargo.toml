@@ -2,5 +2,7 @@
 name = "rent_vec"
 version = "0.1.0"
 edition = "2021"
+description = " A Rust vector with a unique owner for every item"
+license = "MIT"
 
 [dependencies]
